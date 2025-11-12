@@ -2,7 +2,9 @@
 Une application mobile qui met en relation les femmes entrepreneures (couturières, maquilleuses, coiffeuses, esthéticiennes, stylistes, etc.) avec leurs clientes potentielles.
 Elles y exposent leurs créations, présentent leurs services et reçoivent des réservations directement via l’application.
 C’est un espace numérique conçu par et pour les femmes, pour valoriser le savoir-faire local et encourager l’autonomie économique.
-
+<br>
+<img src="https://github.com/ilsabeth123/FEMCONNEX/blob/main/FEMCONNEX.gif" width=200>
+<br>
 ## Membres du groupe: 
 - Moise Alisanta Ediana
 - Ignace Ilsabeth
